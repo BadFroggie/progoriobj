@@ -17,3 +17,5 @@ echo $villain->hp . "<br>";
 $elfe->rangeAttack($villain);
 
 echo $villain->hp . "<br>";
+
+echo Musique::getFx();
